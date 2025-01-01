@@ -1,0 +1,21 @@
+{
+  "name": "coder-coder-dark",
+  "displayName": "coder-coder-dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Next Era Coder",
+        "uiTheme": "hc-black",
+        "path": "./themes/Next Era Coder-color-theme.json"
+      }
+    ]
+  }
+}
