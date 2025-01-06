@@ -1,5 +1,17 @@
 {
 	"name": "Next Era Coder",
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"enumMember": {
+			"foreground": "#a9a9a9"
+		},
+		"variable.constant": {
+			"foreground": "#a78462"
+		},
+		"variable.defaultLibrary": {
+			"foreground": "#74e4a0"
+		}
+  	},
 	"colors": {
 		"editor.background": "#101010",
 		"editor.foreground": "#ffffff"
